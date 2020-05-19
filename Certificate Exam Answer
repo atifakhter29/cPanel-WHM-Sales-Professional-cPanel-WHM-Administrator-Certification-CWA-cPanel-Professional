@@ -1108,4 +1108,10 @@ All mail from a specific user is neither delivered to the inbox nor bounced. Whe
 The message was likely caught in a user-level filter and deleted.
 
 
+When mail is delivered to "/dev/null”, which of the following statements accurately indicate what happens to the message?
+The message has been permanently deleted.
+
+Which of the following options best describes what is indicated by the act of a mail server "relaying" its mail?
+It is handing mail off to another mail server for delivery
+
 
