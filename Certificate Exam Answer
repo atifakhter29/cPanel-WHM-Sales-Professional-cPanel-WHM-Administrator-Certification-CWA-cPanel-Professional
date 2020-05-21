@@ -1138,4 +1138,15 @@ In which of the following WHM interfaces would you enter the default nameservers
 WHM Home >> Server Configuration >> Basic cPanel & WHM Setup
 
 
+Diego is a web designer who operates his own cPanel & WHM server. He wants to create a test subdomain for one of his clients and upload some web content to it so that he can share a "beta" (non-production) version of the site to his client.
+Which of the following interfaces should he start with, in order to accomplish this?
+cPanel » Domains » Subdomains
+
+
+Which of the following options most accurately describes the interface or interfaces that you would utilize to create reverse DNS zones from within WHM?
+WHM Home » DNS Functions » Add a DNS Zone, and then WHM Home » DNS Functions » Edit DNS Zone
+
+To add a PTR record that points the IP address 192.168.0.4 to mail.example.com, which zone would you modify?
+0.168.192.in-addr.arpa
+
 
