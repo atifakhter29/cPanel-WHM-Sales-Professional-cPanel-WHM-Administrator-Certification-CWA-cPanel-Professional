@@ -1126,4 +1126,16 @@ Within which of the following WHM interfaces would you enter the default nameser
 WHM Home >> Resellers >> Edit Reseller Nameservers and Privileges
 
 
+Within which of the following WHM interfaces can you globally enable DKIM and SPF for all accounts
+DNS Functions >> Enable DKIM/SPF Globally
+
+
+Given the following options, which indicates the ideal source from which you should obtain your server's resolver IP addresses
+Your hosting provider or data center
+
+
+In which of the following WHM interfaces would you enter the default nameservers for accounts that root creates
+WHM Home >> Server Configuration >> Basic cPanel & WHM Setup
+
+
 
