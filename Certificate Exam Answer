@@ -1114,4 +1114,16 @@ The message has been permanently deleted.
 Which of the following options best describes what is indicated by the act of a mail server "relaying" its mail?
 It is handing mail off to another mail server for delivery
 
+Within which of the following WHM interfaces would you perform a graceful restart of the nameserver software?
+WHM Home >> Restart Services >> DNS Server
+
+
+Which of the following options best describes the behavior that occurs when a zone contains no MX records?
+The A record is used to determine where mail should be sent
+
+
+Within which of the following WHM interfaces would you enter the default nameservers for accounts that a reseller creates
+WHM Home >> Resellers >> Edit Reseller Nameservers and Privileges
+
+
 
