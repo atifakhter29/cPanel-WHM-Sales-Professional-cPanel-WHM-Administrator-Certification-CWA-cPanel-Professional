@@ -1149,4 +1149,7 @@ WHM Home » DNS Functions » Add a DNS Zone, and then WHM Home » DNS Functions 
 To add a PTR record that points the IP address 192.168.0.4 to mail.example.com, which zone would you modify?
 0.168.192.in-addr.arpa
 
+Within which of the following WHM interfaces would you select the nameserver software that you wish to use?
+WHM Home >> Service Configuration >> Nameserver Selection
+
 
