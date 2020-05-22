@@ -1172,6 +1172,11 @@ The WHM Home >> SQL Services >> Additional Access Hosts interface creates server
 cPanel Home >> Databases >> Remote MySQL
 
 
+Which of the following types of tables can you repair using the Repair a MySQL Database interface, found in WHM?
+MyISAM
+
+
+
 
 
 
