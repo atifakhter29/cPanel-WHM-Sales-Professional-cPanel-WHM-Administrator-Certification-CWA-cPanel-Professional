@@ -1160,6 +1160,19 @@ Which of the following actions occur when a user navigates to the Remote MySQL o
 Grants are retroactively implemented for any new grants that have been added on the system by the administrator.
 
 
+Which of the following options describes an actual benefit of utilizing remote MySQL capabilities using the MySQL Profiles feature in WHM?
+Remote MySQL servers can reduce load on the WHM Server
+
+
+Given the options below, which of these accurately indicate a point during WHM user interactions which triggers the system to create grants for all pre-existing cPanel accounts, based on the configurations set within the Additional MySQL Access Hosts interface?
+When the user clicks the link at the bottom of the Additional MySQL Access Hosts interface labeled "click here".
+
+
+The WHM Home >> SQL Services >> Additional Access Hosts interface creates server-level grants that are similar to the grants that can be created in which of the following cPanel account-level Interfaces? 
+cPanel Home >> Databases >> Remote MySQL
+
+
+
 
 
 
