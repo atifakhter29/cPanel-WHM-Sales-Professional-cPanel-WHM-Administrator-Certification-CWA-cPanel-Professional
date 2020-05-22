@@ -1152,4 +1152,9 @@ To add a PTR record that points the IP address 192.168.0.4 to mail.example.com, 
 Within which of the following WHM interfaces would you select the nameserver software that you wish to use?
 WHM Home >> Service Configuration >> Nameserver Selection
 
+When a user's quota has been reached, what happens to their ability to write to databases?
+They are able to continue writing to their databases without restrictions.
+
+
+
 
