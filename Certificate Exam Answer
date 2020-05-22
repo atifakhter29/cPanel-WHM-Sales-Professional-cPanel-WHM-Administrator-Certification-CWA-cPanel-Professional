@@ -1156,5 +1156,11 @@ When a user's quota has been reached, what happens to their ability to write to 
 They are able to continue writing to their databases without restrictions.
 
 
+Which of the following actions occur when a user navigates to the Remote MySQL or MySQL Databases interfaces in a cPanel user-level interface?
+Grants are retroactively implemented for any new grants that have been added on the system by the administrator.
+
+
+
+
 
 
